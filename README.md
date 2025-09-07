@@ -1,4 +1,3 @@
-"# sai-backend" 
 🏅 SAI Sports Talent Assessment – Backend
 
 This is the backend service for the Sports Authority of India (SAI) Talent Assessment Platform.
